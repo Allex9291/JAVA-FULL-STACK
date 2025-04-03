@@ -1,2 +1,2 @@
 # JAVA-FULL-STACK
-Inventory Management( JAVA , MYSQL,ANGULAR)
+Inventory Management( JAVA,SpringBoot,MYSQL,ANGULAR)
